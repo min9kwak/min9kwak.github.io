@@ -1,7 +1,7 @@
 ---
 title: "Process monitoring using variational autoencoder for high-dimensional nonlinear processes"
 collection: publications
-permalink: /publication/2019-08-01-Process-monitoring-using-variational-autoencoder-for-high-dimensional-nonlinear-processes.md](2019-08-01-Process-monitoring-using-variational-autoencoder-for-high-dimensional-nonlinear-processes
+permalink: /publication/2019-08-01-Process-monitoring-using-variational-autoencoder-for-high-dimensional-nonlinear-processes
 excerpt: 'This paper propose variational autoencoder-based process monitoring technique, integrated with control charts.'
 date: 2019-08-01
 venue: 'Engineering Applications of Artificial Intelligence'
