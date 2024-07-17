@@ -2,7 +2,7 @@
 title: "Unsupervised abnormal sensor signal detection with channelwise reconstruction errors"
 collection: publications
 permalink: /publication/2021-03-09-unsupervised-3
-excerpt: 'Use channelwise reconstruction for multichannel timeseries data, evaluated with simulation studies and automobile sensor data.'
+excerpt: 'Channelwise reconstruction anomaly detection model for multichannel timeseries data, evaluated with simulations and automobile sensors.'
 date: 2021-03-09
 venue: 'IEEE Access'
 ---
