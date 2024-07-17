@@ -14,7 +14,7 @@ Selected Publications
 * ddd
 * ddd
 
-See more in Publications.
+See more in [Publications](./publications).
 
 Contact
 ======
@@ -22,7 +22,7 @@ Feel free to get in touch via email at mkwak35@gatech.edu. You can also find me 
 
 Quick Links
 ------
-* Publications
-* Talks
-* Teaching
-* CV
+- [Publications](./publications)
+- [Talks](./talks)
+- [Teaching](./teaching)
+- [CV](./cv)
