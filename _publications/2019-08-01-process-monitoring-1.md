@@ -2,7 +2,7 @@
 title: "Process monitoring using variational autoencoder for high-dimensional nonlinear processes"
 collection: publications
 permalink: /publication/2019-08-01-process-monitoring-1
-excerpt: 'Proposed variational autoencoder-based process control chart for monitoring.'
+excerpt: 'Variational autoencoder-based process control chart for monitoring.'
 date: 2019-08-01
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0952197619300983'
@@ -17,4 +17,6 @@ In this study, we propose a variational autoencoder (VAE) as a monitoring method
 VAE is appropriate for *T<sup>2</sup>* charts because it causes the reduced space to follow a multivariate normal distribution. 
 The effectiveness and applicability of the proposed VAE-based chart were demonstrated through experiments on simulated data and real data from a thin-film-transistor liquid-crystal display process.
 
-Recommended citation: Lee, S., Kwak, M., Tsui, K. L., & Kim, S. B. (2019). &quot;Process monitoring using variational autoencoder for high-dimensional nonlinear processes.&quot; <i>Engineering Applications of Artificial Intelligence</i>, 83, 13-27.
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197619300983)
+
+Recommended citation: Lee, S., Kwak, M., Tsui, K. L., & Kim, S. B. (2019). Process monitoring using variational autoencoder for high-dimensional nonlinear processes. <i>Engineering Applications of Artificial Intelligence, 83</i>, 13-27.
