@@ -10,7 +10,7 @@ author_profile: true
 ## Research Projects (Georgia Institute of Technology)
 1. Image-based Models of Tumor-Immune Dynamics in Glioblastoma
    - 2023.10 ~ Present
-   - Developed conditional diffusion \& transformer models for translating tumorous brain images into healthy brain images for reducing patient heterogeneity.
+   - Developed conditional diffusion & transformer models for translating tumorous brain images into healthy brain images for reducing patient heterogeneity.
    - Trained the model on benchmark datasets and applied it to internal datasets.
    - Utilized generated normal and original images to construct an epidermal growth factor receptor (EGFR) classification model.
 
