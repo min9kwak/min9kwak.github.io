@@ -5,7 +5,6 @@ permalink: /publication/2020-01-01-channelwise-2
 excerpt: 'Integration of convolutional autoencoder and anomaly detection model for vehicle condition monitoring.'
 date: 2020-01-01
 venue: 'Intelligent Systems and Applications: Proceedings of the 2019 Intelligent Systems Conference (IntelliSys)'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-29513-4_88'
 ---
 
 Anomaly detection is the task of learning patterns of normal data and identifying data with other characteristics. 

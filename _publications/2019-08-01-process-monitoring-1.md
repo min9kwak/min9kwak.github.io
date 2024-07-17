@@ -5,7 +5,6 @@ permalink: /publication/2019-08-01-process-monitoring-1
 excerpt: 'Variational autoencoder-based process control chart for monitoring.'
 date: 2019-08-01
 venue: 'Engineering Applications of Artificial Intelligence'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0952197619300983'
 ---
 
 In many industries, statistical process monitoring techniques play a key role in improving processes through variation reduction and defect prevention. 
