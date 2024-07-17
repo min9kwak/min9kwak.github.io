@@ -21,7 +21,7 @@ repository               : "min9kwak/min9kwak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile.png"
   name             : "Mingu Kwak"
   pronouns         : # example: "she/her"  
   bio              : "I am Mingu Kwak, a postdoctoral researcher in Industrial and Systems Engineering at Georgia Institute of Technology, advised by Professor Jing Li. My research focus is on AI models, especially for medical data."
