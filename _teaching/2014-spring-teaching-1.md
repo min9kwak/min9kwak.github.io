@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - Quality Control"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Korea University, Industrial and Management Engineering"
+date: 2017-03-01
+location: "Seoul, Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the spring semester of 2017, I served as a teaching assistant for Quality Control course, taught by Prof. Seoung Bum Kim at Korea University.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

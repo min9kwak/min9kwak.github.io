@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://min9kwak.github.io/files/CV.pdf" target="_blank">My CV</a>
+
 Education
 ======
 * Ph.D in Industrial and Management Engineering, Korea University, 2022
@@ -38,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -52,4 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, INFORMS Journal of Computing, 2024
+* Reviewer, IEEE Transactions on Automation Science and Engineering, 2023
+* Sergeant, Korean Augmentation to the United States Army, 2011.09 ~ 2013.06
