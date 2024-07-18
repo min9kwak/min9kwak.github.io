@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mingu Kwak / Ph.D."
+title                    : "Mingu Kwak / Ph.D"
 title_separator          : "-"
 name                     : &name "Mingu Kwak"
 description              : &description "personal description"

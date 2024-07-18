@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial and Management Engineering, Korea University, 2022
+* B.S. in Industrial and Management Engineering, Korea University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Researcher, Apr. 2022 ~ Present
+  * H. Milton Stewart School of Industrial and Systems Engineering
+  * Artificial Intelligence for Medical Data Analysis and Integration for Clinical Usage
+  * Supervisor: Prof. Jing Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant, Mar. 2016 ~ Feb. 2022
+  * Industrial and Management Engineering, Korea University
+  * Work in various research projects to solve real-world industrial problems 
+  * Supervisor: Prof. Seoung Bum Kim
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python (Advanced), R (Advanced), SQL (Proficient)
+* Deep Learning Frameworks: Pytorch (Advanced), Keras (Advanced), Tensorflow (Proficient)
+* Tools: Git (Proficient), Docker (Intermediate)
 
 Publications
 ======
